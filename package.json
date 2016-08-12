@@ -1,0 +1,16 @@
+{
+  "name": "vensure",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Kois",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "request": "^2.74.0",
+    "require-dir": "^0.3.0"
+  }
+}
